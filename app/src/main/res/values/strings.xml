@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Intent1</string>
+    <string name="textview">TextView</string>
+    <string name="hitung">Hitung</string>
+    <string name="nama">Nama</string>
+    <string name="umur">Umur</string>
 </resources>
